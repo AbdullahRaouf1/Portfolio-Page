@@ -18,4 +18,7 @@ This portfolio website was created using only HTML and CSS, utilizing the latest
 
 ## Contributing 
 We welcome contributions from anyone interested in helping improve this project! Feel free to open a pull request or issue if you have any suggestions or improvements.
-Link: https://abdullahraouf1.github.io/Portfolio-Page/
+
+## We hope you enjoy exploring this portfolio as much as we enjoyed creating it! If you have any questions or would like to discuss any potential projects with Abdullah, please feel free to reach out via email at am1978718@gmail.com.
+
+### Link: https://abdullahraouf1.github.io/Portfolio-Page/
